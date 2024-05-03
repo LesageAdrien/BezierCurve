@@ -1,2 +1,2 @@
 # BezierCurve
-Showing How Bezier Curve Works
+A small pygame code showing how Bezier curve works.
